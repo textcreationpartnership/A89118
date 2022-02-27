@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ex-ale-tation of ale, the anciant lickquor of this realme. Or, A cleare definition of its effecatious operation in severall pates, arts, and professions.</title>
+            <author>Mews, Peter, 1619-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89118</idno>
+            <idno type="STC">Wing M1952</idno>
+            <idno type="STC">Thomason E1190_3</idno>
+            <idno type="STC">ESTC R208314</idno>
+            <idno type="EEBO-CITATION">99867275</idno>
+            <idno type="PROQUEST">99867275</idno>
+            <idno type="VID">119580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1190[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ex-ale-tation of ale, the anciant lickquor of this realme. Or, A cleare definition of its effecatious operation in severall pates, arts, and professions.</title>
+                  <author>Mews, Peter, 1619-1706.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to the Bishop of Winchester, Peter Mews, by Wing and DNB.</note>
+                  <note>Annotation on Thomason copy: "July 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ale --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119580:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <p>The Ex-ale-tation of ALE, The anciant Lickquor of this REALME.</p>
+            <p>OR, <hi>A cleare definition of its effica<g ref="char:EOLhyphen"/>tious opperation in ſeverall</hi> Pates, Arts, and Profeſſions.</p>
+            <figure/>
+            <p>
+               <add>July 30</add> London, Printed by <hi>T. Badger,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:119580:2"/>
+            <!-- PDF PAGE 101 -->
+            <pb n="1" facs="tcp:119580:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>THE <hi>Ex-ale-tation of Ale.</hi>
+            </head>
+            <lg>
+               <l>Not drunken, nor ſober, but neighbour to both</l>
+               <l>I met with a freind in Ales-bury Vale;</l>
+               <l>Hee ſaw by my face that I was in the caſe</l>
+               <l>To ſpeake no great harme of a pot of good Ale.</l>
+            </lg>
+            <lg>
+               <l>Then did he me greete and ſaid ſince wee meete</l>
+               <l>(and he put me in mind of the name of the Dale)</l>
+               <l>For Ales-bury ſake ſome paines I would take</l>
+               <l>and not bury the praiſe of a pot of good Ale.</l>
+            </lg>
+            <lg>
+               <l>The more to procure me, then did he adiure me;</l>
+               <l>if the Ale I dranke laſt were nappy and ſtale;</l>
+               <l>To doe it his right and ſtirre up my ſprite</l>
+               <l>and fall to commend a pot of &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Quoth I to commend it I dare not beginne,</l>
+               <l>leaſt therein my credit might happen to faile</l>
+               <l>For many men now doe count it a ſin</l>
+               <l>but once to looke towards a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Yet I care not a pin for I ſee no ſuch ſin</l>
+               <l>nor any thing elſe my courage to quaile</l>
+               <l>For this we doe finde that take it in kind</l>
+               <l>much Vertue there is in a pot &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:119580:3"/>
+               <!-- PDF PAGE 102 -->
+               <l>And I meane not the taſt, though thereby much grac't,</l>
+               <l>nor the merrygodowne without pull or hale,</l>
+               <l>Perfuming the throate when the ſtomach's afloate</l>
+               <l>with the fragrant ſent of &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Nor yet the delight that comes to the ſight</l>
+               <l>to ſee how it flowers and mantles in graile;</l>
+               <l>As green as a leeke with a ſmile in the cheeke</l>
+               <l>the true orient colour of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But I meane the mind and the good it doth find,</l>
+               <l>not only the body ſo feeble and fraile</l>
+               <l>For body and ſoule may bleſſe the black boule</l>
+               <l>ſince both are beholden to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>For when heavineſſe the mind doth oppreſſe,</l>
+               <l>and ſorrow and greife the heart doe aſſaile,</l>
+               <l>No remedy quicker then to take off your liquor</l>
+               <l>and to waſh away cares with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Widdow that buried her huſband of late</l>
+               <l>will ſoone have forgotten to weepe and to waile,</l>
+               <l>And thinke every day twaine till ſhe marry againe,</l>
+               <l>reade her but the contents of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It is like a belly blaſt to a cold heart</l>
+               <l>and warmes and engenders the ſpirits vitale,</l>
+               <l>To keep them from domage all ſpri'ts owe their homage</l>
+               <l>to the ſpr'it of the buttry a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And downe to the legs this vertue doth goe,</l>
+               <l>and to a bad foot man is as good as a ſaile,</l>
+               <l>When it fills the veines and makes light the braynes</l>
+               <l>no lackey ſo nimble as a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:119580:3"/>
+               <!-- PDF PAGE 102 -->
+               <l>The naked complaines not for want of a coate,</l>
+               <l>nor on the cold weather will once turne his tayle,</l>
+               <l>All the way as he goes he cuts the winde with his noſe,</l>
+               <l>if he be but well wrapt in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The hungry man takes no thought for his meat</l>
+               <l>though his ſtomack would brooke a ten penny naile;</l>
+               <l>He quite forgets hunger and thinkes on it no longer,</l>
+               <l>if he touch but the ſparke of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The poore man will praiſe it, ſo hath he good cauſe,</l>
+               <l>that all the yeare eates neither Partridge nor Quaile,</l>
+               <l>But ſets up his reſt and makes up his feaſt</l>
+               <l>with a cruſt of browne bread and a &amp;c</l>
+            </lg>
+            <lg>
+               <l>The Sheapheard, the Sower, the Threſher, the Mower,</l>
+               <l>the one with his ſcith, the other with his flaile,</l>
+               <l>Take them out by the poll on the perill of my ſoule</l>
+               <l>all will hold up their hands to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The blacke ſmith whoſe bellowes all ſummer doe blowe</l>
+               <l>with the fier in his face ſtill, without ere a vale,</l>
+               <l>Though his throate be full dry hee will tell you no lie,</l>
+               <l>but where you may be ſure of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Who ever denyes it the priſoner will praiſe it,</l>
+               <l>that beg at the grate and lie in the goale:</l>
+               <l>For even in their fetters they thinke themſelves better</l>
+               <l>may they get but a two penny blacke pot of Ale.</l>
+            </lg>
+            <lg>
+               <l>The begger whoſe portion is alwayes his prayer,</l>
+               <l>not haveing a tatter to hang on his tayle,</l>
+               <l>Is as rich in his rags as the churle in his bagges,</l>
+               <l>if he once but ſhakes hands with a &amp;</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:119580:4"/>
+               <!-- PDF PAGE 103 -->
+               <l>It drives his poverty cleane out of mind</l>
+               <l>forgetting his browne bread, his Wallet and Mayle</l>
+               <l>He walkes in the houſe like a ſixfooted louſe,</l>
+               <l>if he once be enricht with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And he that doth digge in the ditches all day,</l>
+               <l>and wearies himſelfe quite at the plough tayle,</l>
+               <l>Will ſpeake no leſſe things then of Queens and of Kings</l>
+               <l>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he touch but the topp of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It is a Whetſtone to a blunt wit</l>
+               <l>and makes a ſupply where nature doth faile</l>
+               <l>The dulleſt wit ſoone will looke quite through the Moon</l>
+               <l>if his temples be wet with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Then Dicke to his darling full boldly dares ſpeake</l>
+               <l>though before (ſeely fellow) his courage did quaile</l>
+               <l>He gives her the ſmouch with his hand on his pouch</l>
+               <l>if he meet by the way with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And it makes the Carter a Courtier ſtraight-way:</l>
+               <l>with rhetoricall termes he will tell his tale</l>
+               <l>With curtiſes great ſtore and his cap up before</l>
+               <l>being ſchoold but a little with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The old man whoſe tounge waggs faſter then his teeth</l>
+               <l>(for old age by nature doth drivel and draile)</l>
+               <l>Will frigg and fling like a dogg in a ſtring</l>
+               <l>if he warme his cold blood with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And the good old Clarke whoſe ſight waxeth darke</l>
+               <l>and ever he thinks the print is too ſmall,</l>
+               <l>He will ſee every letter and ſay ſervice better</l>
+               <l>if he glaze but his eyes with a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:119580:4"/>
+               <!-- PDF PAGE 103 -->
+               <l>The cheeke and the iawes to commend it have cauſe;</l>
+               <l>for where they were late but even wanne and pale,</l>
+               <l>They will get them a colour no crimſon is fuller</l>
+               <l>by the true dye and tincture of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Marke her enimies though they thinke themſelves wiſe,</l>
+               <l>how megre they looke with how low a wayle,</l>
+               <l>How their cheekes doe fall without ſpr'its at all</l>
+               <l>that alien their minds from a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And now that the graines doe worke in my braynes,</l>
+               <l>me thinks I were able to give by retale</l>
+               <l>Commodities ſtore a dozen and more</l>
+               <l>that flow to mankinde from a pot &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Muſes would muſe any ſhould it miſuſe.</l>
+               <l>For it makes them to ſing like a Nightingale,</l>
+               <l>With a lofty trime note having waſhed their throate</l>
+               <l>with the Caballine ſpring of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And the Muſician of any condition</l>
+               <l>it will make him to reach to the top of his ſcale,</l>
+               <l>It will cleare his pipes and moyſten his lights</l>
+               <l>if he drinke alternatim a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Poet divine that cannot reach wine,</l>
+               <l>becauſe that his mony doth many times faile,</l>
+               <l>Will hit on the veines to make a good ſtreigne</l>
+               <l>if he be but inſpired with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>For ballads Elderton never had peere</l>
+               <l>how went his wit in them with how merry a gale?</l>
+               <l>And with all his ſailes up, had he been at the cup</l>
+               <l>and waſhed his beard with a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:119580:5"/>
+               <!-- PDF PAGE 104 -->
+               <l>And the power of it ſhewes no whit leſſe in proſe,</l>
+               <l>it will fill ones phraſe and ſet forth his tale;</l>
+               <l>Fill him but a bowle it will make his tongue troule,</l>
+               <l>for flowing ſpeech flowes from a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And Maſter Philoſopher if he drink his part,</l>
+               <l>will not trifle his time in the huske or the ſhale,</l>
+               <l>But goe to the kernell by the depth of his art</l>
+               <l>to be found in the bottome of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Give a ſcholar of Oxford a pot of ſixteens</l>
+               <l>and put him to prove that an Ape hath a tayle,</l>
+               <l>And ſixteen times better his wit will be ſeene</l>
+               <l>if you fetch him from Botley a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thus it helps ſpeech and wit, and it hurts not a whit,</l>
+               <l>but rather doth further the vertues morale:</l>
+               <l>Then thinke it not much if a little I touch</l>
+               <l>the good morall parts of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To the church and religion it is a good freind,</l>
+               <l>or elſe our forefathers their wiſdome did faile,</l>
+               <l>That at every mile next to the church ſtile,</l>
+               <l>ſet a conſecrate houſe to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But now as they ſay beere bears all away,</l>
+               <l>the more is the pitty if right might prevaile;</l>
+               <l>For with this ſame beere came up hereſies here,</l>
+               <l>the old Catholike drinke is a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The Churches much owe as we all doe knowe,</l>
+               <l>for when they be dropping and ready to fall;</l>
+               <l>By a Whitſon or a Church ale up againe they ſhall goe</l>
+               <l>and owe their repayring to a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:119580:5"/>
+               <!-- PDF PAGE 104 -->
+               <l>Truth will doe it right, it bringeth truth to light,</l>
+               <l>and many bad matters it helpes to reveile,</l>
+               <l>For they that will drinke will ſpeake what they thinke;</l>
+               <l>Tom tell troth lies hid in a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>It is Iuſtices freind, ſhe will it commend,</l>
+               <l>For all is here ſerved by meaſure and tale,</l>
+               <l>Now, true tale and good meaſure, are Iuſtices treaſure</l>
+               <l>and much to the praiſe of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And next I alledge it is fortitudes edge,</l>
+               <l>for a very cow-heard that ſhrinkes like a ſnaile,</l>
+               <l>Will ſweare and will ſwagger and out goes his dagger,</l>
+               <l>ef A be but arm'd with a &amp;c</l>
+            </lg>
+            <lg>
+               <l>Yea Ale hath her Knights and Squiers of degree</l>
+               <l>that never wore corſlet nor yet ſhirt of maile,</l>
+               <l>But have fought their fights all twixt the pot and the wall</l>
+               <l>when once they were dubbed with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And (ſure) it will make a man ſuddenly wiſe</l>
+               <l>yer while was ſcarſe able to tell a right tale,</l>
+               <l>It will open his jaw he will tell you the law</l>
+               <l>as made a right Preacher of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Or he that will make a bargaine to gaine</l>
+               <l>in buying or ſetting his goods forth to ſale,</l>
+               <l>Muſt not plod in the mire but ſit by the fire</l>
+               <l>and ſeale up his match with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But for ſobernes needs muſt I confeſſe</l>
+               <l>the matter goes hard and few do prevaile</l>
+               <l>Not to goe to deep but temper to keepe</l>
+               <l>ſuch is the attractive of a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:119580:6"/>
+               <!-- PDF PAGE 105 -->
+               <l>But here's an amends which will make all freinds</l>
+               <l>and ever doth tend to the beſt availe,</l>
+               <l>If you take it too deep it will make you but ſleepe,</l>
+               <l>ſo comes no great hurt o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a &amp;c,</l>
+            </lg>
+            <lg>
+               <l>If reeling they happen to fall to the ground,</l>
+               <l>the fall is not great they may hold by the raile,</l>
+               <l>If into the water they cannot be drownd,</l>
+               <l>for that gift is given to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>If drinking about they chance to fall out</l>
+               <l>feare not the alarame, though fleſh be but fraile,</l>
+               <l>It will prove but ſome blowes or at moſt a bloody noſe</l>
+               <l>and freinds againe ſtraight with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And Phiſick will favour Ale as it is bound</l>
+               <l>and be againſt beere both tooth and nayle,</l>
+               <l>They ſend up and down all over the Town</l>
+               <l>to get for their Patients a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Their Aleberries caudles and poſſets each one</l>
+               <l>and ſillabubs made at the milking pale,</l>
+               <l>Although they be many beere comes not in any</l>
+               <l>but all are compoſ'd with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And in very deed, the hop's but a weede</l>
+               <l>brought ore againſt law and here ſet to ſale;</l>
+               <l>Would the law were renew'd and no more beere brew'd,</l>
+               <l>but all good men betake them to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The law, that, will take it under her wing</l>
+               <l>for at every law day or moote of the hale</l>
+               <l>One is ſworne to ſerve our Soveraigne the King</l>
+               <l>in the ancient office of a Conner of Ale</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:119580:6"/>
+               <!-- PDF PAGE 105 -->
+               <l>There's never a Lord of Mannour or of Town</l>
+               <l>by ſtrand or by land by hill or by dale,</l>
+               <l>But thinke it a franchiſe and flower of the Crowne</l>
+               <l>to hold the aſſiſe of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And though their lies writs from the Court Paramount</l>
+               <l>to ſtay the proceeding of the Court Paravaile,</l>
+               <l>Law favours it ſo you may come you may go,</l>
+               <l>there lyes no prohibition to a &amp;c</l>
+            </lg>
+            <lg>
+               <l>They talke much of ſtate both earely and late,</l>
+               <l>but if Gaſcoigne and Spaine their wine ſhould but faile,</l>
+               <l>No remedy then with us Engliſhmen</l>
+               <l>but the State it muſt ſtand by a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>And they that ſit by it are good men and quiet,</l>
+               <l>no dangerous plotters in the common-weale</l>
+               <l>Of treaſon or murder, for they never go further</l>
+               <l>then to call for and pay for a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>To the praiſe of Cambivius that good Brittiſh King</l>
+               <l>that deviſed for his nation (by the Welſhmens tale)</l>
+               <l>Seventeen hundred yeares before Chriſt did ſpring</l>
+               <l>the happy invention of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But he was a Paynim and Ale then was rife,</l>
+               <l>yet after Chriſt came and bid us all haile;</l>
+               <l>St. David tid never trinke Peere in her life</l>
+               <l>put all Cwwrwwhibley a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The North they will praiſe it and praiſe it with paſſion</l>
+               <l>where every River gives name to a Dale;</l>
+               <l>There are yet men living that are of tho'ld faſhion</l>
+               <l>no Nectar they know but a &amp;c.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:119580:7"/>
+               <!-- PDF PAGE 106 -->
+               <l>The Picts and the Scots for Ale were at lots,</l>
+               <l>ſo high was the skill and ſo kept under ſeale;</l>
+               <l>The Picts were undone ſlaine each mothers ſonne</l>
+               <l>for not teaching the Scots to make Hetheraeale</l>
+            </lg>
+            <lg>
+               <l>But hither or thither it skills not much whether,</l>
+               <l>for drinke muſt be had, men live not by ke<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</l>
+               <l>Nor by Haverhannocks nor by Haveriannocks;</l>
+               <l>the thing the Scots live by is a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Now if you will ſay it J will not deny it,</l>
+               <l>that many a man it brings to his bale</l>
+               <l>Yet what fairer end can one wiſh to his freind</l>
+               <l>then to dye by the dart of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Yet let not the innocent beare any blame,</l>
+               <l>it is their own doing to breake ore the pale,</l>
+               <l>And neither the malt nor the good wife in fault</l>
+               <l>if any be potted with a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>They tell of whom it kills, but ſay not a word</l>
+               <l>how many a man liveth both ſound and whole,</l>
+               <l>Though he drinke no beere any day in the yeare,</l>
+               <l>by the Radicall humour of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But to ſpeake of killing that am J not willing,</l>
+               <l>for that in a manner were but to raile;</l>
+               <l>But Beere hath its name cauſe it brings to the beere,</l>
+               <l>therefore well fare ſay J to a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Too many I wis with their death proved this,</l>
+               <l>and therefore if ancient records do not faile</l>
+               <l>He that firſt brew'd the hop was rewarded with a rope</l>
+               <l>and found his beere far more bitter then Ale.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:119580:7"/>
+               <!-- PDF PAGE 106 -->
+               <l>O Ale ab alendo thou liquor of life</l>
+               <l>that I had but a mouth as bigg as a Whale;</l>
+               <l>For mine is too little to touch the leaſt tittle</l>
+               <l>that belongs to the praiſe of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Thus J trow ſome Vertues I have marked you out</l>
+               <l>and never a vice in all this long trayle;</l>
+               <l>But that after the pot there commeth a ſhot</l>
+               <l>and thats th'only blot of a &amp;c.</l>
+            </lg>
+            <lg>
+               <l>With that my freind ſaid that blot will I beare</l>
+               <l>you have done very well it is time to ſtricke ſale;</l>
+               <l>Weel have ſix pots more though J dye on the ſcore</l>
+               <l>to make all this good of a pot of good Ale.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
